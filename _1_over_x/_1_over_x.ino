@@ -1,4 +1,4 @@
-const int leds[2] = { 6, 9 };      // the number of the LED pin
+const int leds[2] = { 6, 9 };      // the number of the LED pins
 
 void setup() {
   pinMode(leds[0], OUTPUT);      
